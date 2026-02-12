@@ -14,7 +14,7 @@ const Hero = () => {
         {/* Name */}
         <div className="flex flex-col items-center justify-center">
           <BlurText
-            text="ROUNIT KUMAR"
+            text="PRINCE KUMAR"
             direction="top"
             delay={100}
             className="saira-font text-white text-3xl sm:text-6xl"
@@ -22,7 +22,7 @@ const Hero = () => {
 
           <div className="text-lg md:text-2xl text-gray-400">
             <Typewriter
-              words={["DevOps Enthusiast", "Web3 Explorer", "CyberSecurity Curious"]}
+              words={["Data Science Enthusiast"]}
               loop
               cursor
               cursorStyle="|"
@@ -37,7 +37,7 @@ const Hero = () => {
         <div className="flex items-center justify-center gap-3  pr-12">
           <CiLocationOn className="animate-bounce" fill="white" size={30} />
           <ShinyText
-            text="Patna, India"
+            text="Dhanbad, India"
             speed={5}
             className="text-sm sm:text-lg"
           />
@@ -53,7 +53,7 @@ const Hero = () => {
           {/* GitHub */}
           <a
             target="_blank"
-            href="https://github.com/rounitkumar568"
+            href="https://github.com/Prince2531"
             className="group relative"
           >
             <svg
@@ -73,7 +73,7 @@ const Hero = () => {
 
           <a
             target="_blank"
-            href="https://www.linkedin.com/in/rounitkumar568/"
+            href="https://www.linkedin.com/in/prince2531/"
             className="group relative"
           >
             <svg

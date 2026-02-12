@@ -109,7 +109,7 @@ export const Contact = () => {
                                             <FiMail className="text-xl" />
                                         </a>
                                         <a
-                                            href="https://github.com/Satyam00915"
+                                            href="https://github.com/Prince2531"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="p-3 bg-gray-900 hover:bg-gray-800 rounded-full border-2 border-gray-800 hover:border-indigo-500 transition-all"
@@ -117,7 +117,7 @@ export const Contact = () => {
                                             <FiGithub className="text-xl" />
                                         </a>
                                         <a
-                                            href="https://linkedin.com/in/satyam0915"
+                                            href="https://www.linkedin.com/in/prince2531/"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="p-3 bg-gray-900 hover:bg-gray-800 rounded-full border-2 border-gray-800 hover:border-indigo-500 transition-all"
@@ -125,7 +125,7 @@ export const Contact = () => {
                                             <FiLinkedin className="text-xl" />
                                         </a>
                                         <a
-                                            href="https://x.com/SatyamUpad2970"
+                                            href="https://x.com/PKumar250361552"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="p-3 bg-gray-900 hover:bg-gray-800 rounded-full border-2 border-gray-800 hover:border-indigo-500 transition-all"
