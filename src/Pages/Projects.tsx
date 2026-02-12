@@ -10,7 +10,7 @@ const Projects = () => {
       alt: "Preview of NeuroNest Website",
       tags: ["React", "Express", "MongoDB"],
       demoUrl: "https://neuro-nest-d2fn.vercel.app/",
-      githubUrl: "https://github.com/rounitkumar568/NeuroNest",
+      githubUrl: "https://github.com/Prince2531/NeuroNest",
     },
     {
       title: "Medium Clone",
@@ -20,7 +20,7 @@ const Projects = () => {
       alt: "Preview of Medium Website",
       tags: ["React", "NodeJS", "PostgreSQL", "Prisma"],
       demoUrl: "https://medium-ten-iota.vercel.app/signin",
-      githubUrl: "https://github.com/rounitkumar568/Medium",
+      githubUrl: "https://github.com/Prince2531/Medium",
     },
     {
       title: "Resource Hub",
@@ -29,7 +29,7 @@ const Projects = () => {
       image: "/hub.png",
       alt: "Preview of ResourceHub Website",
       tags: ["React", "Express", "PostgreSQL", "Prisma"],
-      githubUrl: "https://github.com/rounitkumar568/Resource-Hub",
+      githubUrl: "https://github.com/Prince2531/Resource-Hub",
     },
   ];
 
